@@ -27,6 +27,16 @@ Dokumentation: Umfassende Anleitung und Dokumentation der durchgeführten Umbaut
 Hinweis:
 Dieses Projekt dient nicht nur als Ressource für diejenigen, die ähnliche Optimierungen an ihrem Ender 3 vornehmen möchten, sondern auch als Beitrag zur Klipper-Community.
 
+
+https://www.crealitycloud.com/model-detail/616ffc750bfa2e82df800470
+
+https://www.crealitycloud.com/model-detail/63d6b8ad2ec2531946c87c88
+
+https://www.crealitycloud.com/model-detail/649dbbfbfa1ebd93032b0b82
+
+https://www.crealitycloud.com/model-detail/616ffc5e0bfa2e82df80016e
+
+
 Project: Ender 3 Klipper Optimization
 
 Description:
@@ -54,4 +64,11 @@ Configuration Files: Contains all necessary configuration files for Klipper firm
 Documentation: Comprehensive guide and documentation of the implemented modifications and settings.
 Note:
 This project serves not only as a resource for those looking to make similar enhancements to their Ender 3 but also as a contribution to the Klipper community.
+
+
+https://s.click.aliexpress.com/e/_DlaavsD
+
+https://s.click.aliexpress.com/e/_DCsjxCD
+
+https://s.click.aliexpress.com/e/_DevCP9L
 
